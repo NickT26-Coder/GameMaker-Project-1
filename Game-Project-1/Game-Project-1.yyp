@@ -34,7 +34,12 @@
   },
   "name":"Game-Project-1",
   "resources":[
+    {"id":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_lightBodyGreen","path":"sprites/spr_lightBodyGreen/spr_lightBodyGreen.yy",},},
+    {"id":{"name":"spr_lightTurretGreen","path":"sprites/spr_lightTurretGreen/spr_lightTurretGreen.yy",},},
+    {"id":{"name":"spr_player1","path":"sprites/spr_player1/spr_player1.yy",},},
+    {"id":{"name":"spr_spaceBackground","path":"sprites/spr_spaceBackground/spr_spaceBackground.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
