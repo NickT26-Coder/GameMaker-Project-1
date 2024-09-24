@@ -28,7 +28,9 @@
   "resources":[
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
     {"id":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"level1","path":"rooms/level1/level1.yy",},},
+    {"id":{"name":"level2","path":"rooms/level2/level2.yy",},},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_blackShell","path":"sprites/spr_blackShell/spr_blackShell.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
     {"id":{"name":"spr_bossBodyRed","path":"sprites/spr_bossBodyRed/spr_bossBodyRed.yy",},},
@@ -44,13 +46,13 @@
     {"id":{"name":"spr_player1","path":"sprites/spr_player1/spr_player1.yy",},},
     {"id":{"name":"spr_rocketGreen","path":"sprites/spr_rocketGreen/spr_rocketGreen.yy",},},
     {"id":{"name":"spr_rocketRed","path":"sprites/spr_rocketRed/spr_rocketRed.yy",},},
-    {"id":{"name":"spr_spaceBackground","path":"sprites/spr_spaceBackground/spr_spaceBackground.yy",},},
     {"id":{"name":"tileset0","path":"tilesets/tileset0/tileset0.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"level1","path":"rooms/level1/level1.yy",},},
+    {"roomId":{"name":"level2","path":"rooms/level2/level2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

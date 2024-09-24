@@ -26,11 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_block",
     "path":"sprites/spr_block/spr_block.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
