@@ -27,6 +27,7 @@
   "name":"Game-Project-1",
   "resources":[
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
+    {"id":{"name":"obj_med_shell","path":"objects/obj_med_shell/obj_med_shell.yy",},},
     {"id":{"name":"obj_med_treads","path":"objects/obj_med_treads/obj_med_treads.yy",},},
     {"id":{"name":"obj_med_turret","path":"objects/obj_med_turret/obj_med_turret.yy",},},
     {"id":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},},
@@ -50,7 +51,6 @@
     {"id":{"name":"spr_player1","path":"sprites/spr_player1/spr_player1.yy",},},
     {"id":{"name":"spr_rocketGreen","path":"sprites/spr_rocketGreen/spr_rocketGreen.yy",},},
     {"id":{"name":"spr_rocketRed","path":"sprites/spr_rocketRed/spr_rocketRed.yy",},},
-    {"id":{"name":"Sprite2_1","path":"sprites/Sprite2_1/Sprite2_1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"tileset0","path":"tilesets/tileset0/tileset0.yy",},},
   ],
