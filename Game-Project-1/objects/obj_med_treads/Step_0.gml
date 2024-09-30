@@ -28,7 +28,7 @@ if !keyboard_check(ord("W")) && !keyboard_check(ord("S"))
 	
 	if speed < 0
 	{
-		speed =+ 0.02
+		speed += 0.02
 	}
 
 }
@@ -37,5 +37,14 @@ if !keyboard_check(ord("W")) && !keyboard_check(ord("S"))
 x += lengthdir_x(speed, direction);
 y += lengthdir_y(speed, direction);
 image_angle = direction - 90;
+
+
+// Animation handling
+	if (speed != 0)
+	{
+		image_speed = 1
+	} else {
+		image_speed = 0
+	}
 
 
