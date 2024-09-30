@@ -7,3 +7,6 @@ accel = varAccel;
 turnSpeed = varTurnSpeed;
 
 direction = 90;
+
+// Sets animation to off
+image_speed = 0

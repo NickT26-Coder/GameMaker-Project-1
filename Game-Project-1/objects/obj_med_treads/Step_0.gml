@@ -39,6 +39,12 @@ y += lengthdir_y(speed, direction);
 image_angle = direction - 90;
 
 
-
+// Animation handling
+	if (speed != 0)
+	{
+		image_speed = 1
+	} else {
+		image_speed = 0
+	}
 
 
