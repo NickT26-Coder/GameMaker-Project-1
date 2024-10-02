@@ -39,12 +39,16 @@ y += lengthdir_y(speed, direction);
 image_angle = direction - 90;
 
 
-// Animation handling
+// Animation handling & Sound
 	if (speed != 0)
 	{
 		image_speed = 1
+		if(!audio_is_playing(snd_tankMoving)){
+			audio_play_sound(snd_tankMoving, 1, true)
+		}
 	} else {
 		image_speed = 0
+		audio_stop_sound(snd_tankMoving)
 	}
 
 
