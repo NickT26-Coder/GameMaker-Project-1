@@ -26,11 +26,10 @@
   },
   "name":"Game-Project-1",
   "resources":[
-    {"id":{"name":"obj_block_1","path":"objects/obj_block_1/obj_block_1.yy",},},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
     {"id":{"name":"obj_med_shell","path":"objects/obj_med_shell/obj_med_shell.yy",},},
-    {"id":{"name":"obj_med_treads_1","path":"objects/obj_med_treads_1/obj_med_treads_1.yy",},},
-    {"id":{"name":"obj_med_turret_1","path":"objects/obj_med_turret_1/obj_med_turret_1.yy",},},
+    {"id":{"name":"obj_med_treads","path":"objects/obj_med_treads/obj_med_treads.yy",},},
+    {"id":{"name":"obj_med_turret","path":"objects/obj_med_turret/obj_med_turret.yy",},},
     {"id":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},},
     {"id":{"name":"level1","path":"rooms/level1/level1.yy",},},
     {"id":{"name":"level2","path":"rooms/level2/level2.yy",},},
