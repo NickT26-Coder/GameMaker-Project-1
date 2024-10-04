@@ -39,8 +39,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_med_treads_moving",
-    "path":"sprites/spr_med_treads_moving/spr_med_treads_moving.yy",
+    "name":"spr_med_treads",
+    "path":"sprites/spr_med_treads/spr_med_treads.yy",
   },
   "spriteMaskId":null,
   "visible":true,
