@@ -6,8 +6,8 @@
   "name":"obj_final",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"misc",
+    "path":"folders/Objects/misc.yy",
   },
   "parentObjectId":{
     "name":"obj_next",

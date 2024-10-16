@@ -1,0 +1,2 @@
+//inherit
+event_inherited();
