@@ -8,8 +8,8 @@
   "name":"obj_QuitButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"gameGui",
+    "path":"folders/Objects/gameGui.yy",
   },
   "parentObjectId":{
     "name":"obj_PlayButton",
