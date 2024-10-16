@@ -10,8 +10,8 @@
   "name":"obj_controller",
   "overriddenProperties":[],
   "parent":{
-    "name":"Utility",
-    "path":"folders/Objects/Utility.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":true,

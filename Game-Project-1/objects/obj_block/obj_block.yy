@@ -6,8 +6,8 @@
   "name":"obj_block",
   "overriddenProperties":[],
   "parent":{
-    "name":"Structures",
-    "path":"folders/Objects/Structures.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

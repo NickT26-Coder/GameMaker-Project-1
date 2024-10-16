@@ -11,8 +11,8 @@
   "name":"obj_PlayButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"gameGui",
-    "path":"folders/Objects/gameGui.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

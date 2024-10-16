@@ -9,18 +9,12 @@
   ],
   "managed":true,
   "name":"obj_med_turret",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_turret","path":"objects/obj_turret/obj_turret.yy",},"propertyId":{"name":"varCooldown","path":"objects/obj_turret/obj_turret.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"60",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_turret","path":"objects/obj_turret/obj_turret.yy",},"propertyId":{"name":"varDamage","path":"objects/obj_turret/obj_turret.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"70",},
-  ],
+  "overriddenProperties":[],
   "parent":{
-    "name":"Turrets",
-    "path":"folders/Objects/Turrets.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_turret",
-    "path":"objects/obj_turret/obj_turret.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

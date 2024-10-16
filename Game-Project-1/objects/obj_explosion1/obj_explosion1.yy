@@ -8,8 +8,8 @@
   "name":"obj_explosion1",
   "overriddenProperties":[],
   "parent":{
-    "name":"effects",
-    "path":"folders/Objects/effects.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

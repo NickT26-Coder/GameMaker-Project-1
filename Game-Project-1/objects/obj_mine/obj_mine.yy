@@ -9,8 +9,8 @@
   "name":"obj_mine",
   "overriddenProperties":[],
   "parent":{
-    "name":"Structures",
-    "path":"folders/Objects/Structures.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
