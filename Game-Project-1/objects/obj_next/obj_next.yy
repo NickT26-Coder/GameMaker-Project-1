@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_next",
-    "path":"sprites/spr_next/spr_next.yy",
+    "name":"spr_Portal",
+    "path":"sprites/spr_Portal/spr_Portal.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -5,6 +5,7 @@ minSpeed =varMinSpeed;
 health = varHealth;
 accel = varAccel;
 turnSpeed = varTurnSpeed;
+soundPlaying = false;
 
 direction = 90;
 
