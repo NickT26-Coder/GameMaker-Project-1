@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_enemy_heavy_turret",
-    "path":"sprites/spr_enemy_heavy_turret/spr_enemy_heavy_turret.yy",
+    "name":"spr_enemy_turret",
+    "path":"sprites/spr_enemy_turret/spr_enemy_turret.yy",
   },
   "spriteMaskId":null,
   "visible":true,

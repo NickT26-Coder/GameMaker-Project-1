@@ -43,8 +43,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_enemy_light_tread",
-    "path":"sprites/spr_enemy_light_tread/spr_enemy_light_tread.yy",
+    "name":"spr_enemy_tread",
+    "path":"sprites/spr_enemy_tread/spr_enemy_tread.yy",
   },
   "spriteMaskId":null,
   "visible":true,
