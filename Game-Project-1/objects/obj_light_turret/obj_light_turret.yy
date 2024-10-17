@@ -39,8 +39,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lightTurretGreenMoving",
-    "path":"sprites/spr_lightTurretGreenMoving/spr_lightTurretGreenMoving.yy",
+    "name":"spr_light_turret_blue",
+    "path":"sprites/spr_light_turret_blue/spr_light_turret_blue.yy",
   },
   "spriteMaskId":null,
   "visible":true,

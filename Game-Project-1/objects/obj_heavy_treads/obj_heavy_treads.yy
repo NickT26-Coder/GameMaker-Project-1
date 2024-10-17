@@ -42,8 +42,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_med_treads",
-    "path":"sprites/spr_med_treads/spr_med_treads.yy",
+    "name":"spr_heavy_treads",
+    "path":"sprites/spr_heavy_treads/spr_heavy_treads.yy",
   },
   "spriteMaskId":null,
   "visible":true,
