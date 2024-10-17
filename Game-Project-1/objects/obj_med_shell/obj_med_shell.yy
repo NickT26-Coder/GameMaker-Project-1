@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_heavyShellGreen",
-    "path":"sprites/spr_heavyShellGreen/spr_heavyShellGreen.yy",
+    "name":"spr_blackShell",
+    "path":"sprites/spr_blackShell/spr_blackShell.yy",
   },
   "spriteMaskId":null,
   "visible":true,
