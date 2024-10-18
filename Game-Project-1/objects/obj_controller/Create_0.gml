@@ -22,3 +22,4 @@ text = string_concat("Level ", global.room_number)
 //	room_instance_add(3, 1500, 1300, global.treads)
 //}
 
+global.gameOver = false

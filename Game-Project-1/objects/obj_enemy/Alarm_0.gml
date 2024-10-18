@@ -3,6 +3,7 @@
 // rememeber player location
 direction = point_direction(x, y, target_x, target_y);
 //update player position
+
 target_x = obj_tread.x
 target_y = obj_tread.y
 //update speed

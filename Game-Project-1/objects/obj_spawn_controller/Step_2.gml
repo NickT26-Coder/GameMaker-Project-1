@@ -27,7 +27,7 @@ if(instance_number(obj_enemy) <= 6)
 }
 
 
-	if (global.deathCount = 22)
+	if (global.deathCount >= 22)
 	{
 	instance_destroy(spawner)
 	obj_next.image_alpha = 1

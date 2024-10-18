@@ -12,7 +12,7 @@ y = obj_tread.y;
 //die
 if(obj_tread.varHealth <= 0 )
 {
-	instance_destroy(self)
+	global.gameOver = true
 }
 
 //point

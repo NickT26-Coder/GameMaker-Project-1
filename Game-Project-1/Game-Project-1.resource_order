@@ -49,7 +49,7 @@
     {"name":"obj_PlayButton","order":2,"path":"objects/obj_PlayButton/obj_PlayButton.yy",},
     {"name":"obj_QuitButton","order":3,"path":"objects/obj_QuitButton/obj_QuitButton.yy",},
     {"name":"obj_resize","order":17,"path":"objects/obj_resize/obj_resize.yy",},
-    {"name":"obj_scoreboard","order":8,"path":"objects/obj_scoreboard/obj_scoreboard.yy",},
+    {"name":"obj_scoreboard","order":4,"path":"objects/obj_scoreboard/obj_scoreboard.yy",},
     {"name":"obj_shell_enemy","order":3,"path":"objects/obj_shell_enemy/obj_shell_enemy.yy",},
     {"name":"obj_shell","order":2,"path":"objects/obj_shell/obj_shell.yy",},
     {"name":"obj_spawn_controller_2","order":19,"path":"objects/obj_spawn_controller_2/obj_spawn_controller_2.yy",},

@@ -1,5 +1,6 @@
 // Player Movement
-
+if(!global.gameOver)
+{
 if  keyboard_check(ord("W")) && speed < topSpeed 
 {
 	speed += accel;  //Accelerate forward
@@ -18,9 +19,10 @@ if keyboard_check(ord("D"))
 {
 	direction -= turnSpeed;  //Turn Right
 }
-	
+}
 	
 //slow down when not forward or reversing
+
 if !keyboard_check(ord("W")) && !keyboard_check(ord("S"))
 {
 	if speed > 0
@@ -34,6 +36,7 @@ if !keyboard_check(ord("W")) && !keyboard_check(ord("S"))
 	}
 
 }
+
 
 // Direction
 x += lengthdir_x(speed, direction);
@@ -49,17 +52,18 @@ image_angle = direction - 90;
 		image_speed = 0
 	}
 
-if(speed > .01 && !soundPlaying){
-	soundPlaying = true;
-	audio_play_sound(snd_TankMoving, 1, true)
-} else if(speed <= .01 && soundPlaying){
-	soundPlaying = false;
-	audio_stop_sound(snd_TankMoving)
+if((speed > .01 || speed < -.01)&& !soundPlaying){
+    soundPlaying = true;
+    audio_play_sound(snd_TankMoving, 1, true)
+} else if((speed <= .01 && speed >= -.01)&& soundPlaying){
+    soundPlaying = false;
+    audio_stop_sound(snd_TankMoving)
 }
 
 
 // die
 if(obj_tread.varHealth <= 0 )
-{
-	instance_destroy(self)
+{	
+	global.gameOver = true
+	
 }
