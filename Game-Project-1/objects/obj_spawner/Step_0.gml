@@ -6,7 +6,7 @@ if(!valid_spawn)
     spawn_y = irandom_range(100, room_height-100);
 }
     // Check if the position is clear
-    if (!collision_circle(spawn_x,spawn_y,50,obj_block,false,false) && !collision_circle(spawn_x,spawn_y,200,obj_enemy,false,false) && !collision_circle(spawn_x,spawn_y,200,obj_tread,false,false)  )
+    if (!collision_circle(spawn_x,spawn_y,200,obj_block,false,false) && !collision_circle(spawn_x,spawn_y,200,obj_enemy,false,false) && !collision_circle(spawn_x,spawn_y,200,obj_tread,false,false)  )
 	{
         valid_spawn = true; // The spot is clear, proceed with spawning
 			// Create an instance of the enemy object at the valid position
