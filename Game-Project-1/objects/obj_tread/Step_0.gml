@@ -49,10 +49,10 @@ image_angle = direction - 90;
 		image_speed = 0
 	}
 
-if(speed > .01 && !soundPlaying){
+if((speed > .01 || speed < -.01)&& !soundPlaying){
 	soundPlaying = true;
 	audio_play_sound(snd_TankMoving, 1, true)
-} else if(speed <= .01 && soundPlaying){
+} else if((speed <= .01 && speed >= -.01)&& soundPlaying){
 	soundPlaying = false;
 	audio_stop_sound(snd_TankMoving)
 }
@@ -62,4 +62,6 @@ if(speed > .01 && !soundPlaying){
 if(obj_tread.varHealth <= 0 )
 {
 	instance_destroy(self)
+	room_goto(menu)
+	global.room_number = 0
 }

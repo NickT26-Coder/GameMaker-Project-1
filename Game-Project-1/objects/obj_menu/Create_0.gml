@@ -7,3 +7,12 @@ global.switch_turret = 0
 treads = [spr_med_treads, spr_heavy_treads, spr_light_treads]
 turrets = [spr_lightTurretGreenMoving, spr_heavy_turret_red, spr_light_turret_blue]
 
+
+if(audio_is_playing(snd_levelMusic)){
+	audio_stop_sound(snd_levelMusic);
+}
+if( audio_is_playing(snd_CreditMusic)){
+	audio_stop_sound(snd_CreditMusic);
+}
+
+audio_play_sound(snd_MenuMusic, 1, true);

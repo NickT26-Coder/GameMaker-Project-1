@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_final",
-    "path":"sprites/spr_final/spr_final.yy",
+    "name":"spr_Portal",
+    "path":"sprites/spr_Portal/spr_Portal.yy",
   },
   "spriteMaskId":null,
   "visible":true,

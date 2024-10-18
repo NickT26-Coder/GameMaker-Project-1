@@ -6,3 +6,8 @@ text = "Created by Purple Party Ponies: \n Programmer - Laurence Thompson \n Art
 x = room_width / 2
 y = 120
 height = string_height(text)
+
+if(audio_is_playing(snd_levelMusic)){
+	audio_stop_sound(snd_levelMusic)
+}
+audio_play_sound(snd_CreditMusic, 1, true);
