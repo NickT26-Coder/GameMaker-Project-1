@@ -7,9 +7,10 @@
       ],},
   ],
   "macroPageTiles":{
-    "SerialiseHeight":0,
-    "SerialiseWidth":0,
-    "TileSerialiseData":[],
+    "SerialiseHeight":8,
+    "SerialiseWidth":7,
+    "TileCompressedData":[-53,0,3,17,0,0,],
+    "TileDataFormat":1,
   },
   "name":"tileset0",
   "out_columns":8,

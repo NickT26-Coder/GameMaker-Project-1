@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-obj_spawn_controller.deathCount += 1
+global.deathCount += 1
 

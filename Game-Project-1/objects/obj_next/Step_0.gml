@@ -3,6 +3,3 @@
 //passed = true
 //image_alpha = 1
 //maybe play a sfx
-
-
-

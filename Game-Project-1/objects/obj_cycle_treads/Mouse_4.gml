@@ -17,3 +17,5 @@ if (image_angle != 0) {
 		global.switch_tread = 0
 	}
 }
+
+global.deathCount = 0
