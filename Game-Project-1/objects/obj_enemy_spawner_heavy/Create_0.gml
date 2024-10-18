@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-image_alpha = 0
+// Inherit the parent event
+event_inherited();
 
-text = string_concat("LEVEL ", global.room_number)

@@ -1,3 +1,6 @@
+//turret stays on tank
+turretId.x = x
+turretId.y = y
 
 //die
 if (self.varHealth <= 0)

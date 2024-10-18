@@ -7,3 +7,5 @@ var size = 0.3
 	global.treads.image_yscale = size
 	global.turret.image_xscale = size
 	global.turret.image_yscale = size
+	global.treads.depth = 1
+	global.turret.depth = 0

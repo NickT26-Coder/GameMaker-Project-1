@@ -9,7 +9,7 @@ if (image_angle == 0) {
 
 if (image_angle != 0) {
 	global.switch_turret += 1
-	if global.switch_turret > 1 {
+	if global.switch_turret > 2 {
 		global.switch_turret = 0
 	}
 }
