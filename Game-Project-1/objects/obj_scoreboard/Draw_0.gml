@@ -5,7 +5,7 @@
 draw_set_font(scoreboard_font)
 
 if (instance_exists(obj_tread)) {
-    draw_healthbar(84, 84, 750, 167, obj_tread.varHealth, c_white, c_red, c_green, 0, true, false)
+    draw_healthbar(84, 84, 750, 167, (obj_tread.varHealth / obj_tread.tophealth)*100, c_white, c_red, c_green, 0, true, false)
     
 }
 

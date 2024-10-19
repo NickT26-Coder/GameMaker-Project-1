@@ -12,7 +12,7 @@
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_tread","path":"objects/obj_tread/obj_tread.yy",},"propertyId":{"name":"varAccel","path":"objects/obj_tread/obj_tread.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.05",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_tread","path":"objects/obj_tread/obj_tread.yy",},"propertyId":{"name":"varTurnSpeed","path":"objects/obj_tread/obj_tread.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_tread","path":"objects/obj_tread/obj_tread.yy",},"propertyId":{"name":"varHealth","path":"objects/obj_tread/obj_tread.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"100",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_tread","path":"objects/obj_tread/obj_tread.yy",},"propertyId":{"name":"varHealth","path":"objects/obj_tread/obj_tread.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"175",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_tread","path":"objects/obj_tread/obj_tread.yy",},"propertyId":{"name":"varTopSpeed","path":"objects/obj_tread/obj_tread.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_tread","path":"objects/obj_tread/obj_tread.yy",},"propertyId":{"name":"varMinSpeed","path":"objects/obj_tread/obj_tread.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"-2",},
   ],

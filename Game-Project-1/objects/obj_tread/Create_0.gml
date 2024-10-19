@@ -6,6 +6,7 @@ health = varHealth;
 accel = varAccel;
 turnSpeed = varTurnSpeed;
 soundPlaying = false;
+tophealth = varHealth
 
 direction = 90;
 
