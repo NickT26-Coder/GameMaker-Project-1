@@ -13,3 +13,6 @@ The player will be faced with a variety of challenges in the way of obstacles an
 The first level will have regular tanks in a circular arena, the second one will have drill tanks that follow you around, the third will have long range tanks that harass you from afar. The fourth will have a lot more obstacles and the fifth will have a mixture of all elements and a final confrontation with the final boss. The key challenges of the game are learning what parts do what things and what you need to do to take advantage of the enemies presented to you as well as any obstacles you may face. It’s also important to learn how to pilot your tank well to beat the game.  
 
 This game is meant for people who have a lot of fun tinkering around with customization options and the enemies just provide a nice target to test out combinations on, the game will have swappable chassis as well as turrets and 3 slots for abilities so players are encouraged to make a unique tank that is fun for them and even try to make as many as they want.
+
+Cheatcodes:
+ALT-N: Next Level  ALT-G: God Mode  Esc: Quit Game
