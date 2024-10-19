@@ -9,6 +9,7 @@
 if (!instance_exists(obj_enemy))
 {
 	global.room_number += 1
+	audio_stop_sound(snd_TankMoving)
 	instance_create_depth(0,0,-9999, obj_fade)
 	room_goto_next()
 	

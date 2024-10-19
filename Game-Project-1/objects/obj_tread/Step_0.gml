@@ -52,6 +52,7 @@ image_angle = direction - 90;
 		image_speed = 0
 	}
 
+
 if((speed > .01 || speed < -.01)&& !soundPlaying){
     soundPlaying = true;
     audio_play_sound(snd_TankMoving, 1, true)
