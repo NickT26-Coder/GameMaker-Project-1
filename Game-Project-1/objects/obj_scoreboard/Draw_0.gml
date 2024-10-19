@@ -14,7 +14,7 @@ if (global.gameOver)
 draw_set_font(fn_level)
 draw_set_halign(fa_center)
 draw_text(room_width/2, room_height/2 - 200, "Game Over")
-draw_text(room_width/2, room_height/2 + 100, "Press R to restart")
+draw_text(room_width/2, room_height/2 + 100, "Press R to Quit")
 
 
 }
